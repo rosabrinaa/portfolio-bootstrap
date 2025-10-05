@@ -1,6 +1,6 @@
 # Portfolio - Template Bootstrap (Album)
 
-**Template escolhido:** Bootstrap "Album" (exemplo oficial). Porquê: layout de galeria/portfolio limpo, responsivo e fácil de customizar.
+O template **Album** foi escolhido pelo seu layout de galeria/portfolio limpo, ser responsivo e fácil de customizar.
 
 ## Estrutura
 - `index.html` — página principal
